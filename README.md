@@ -1,7 +1,7 @@
-Python-S3-Backup
+Tiktalik-Backup
 ================
 
-Simple Python backup script for backing up files and MySQL dumps on Amazon S3.
+Simple Python backup script for backing up files and MySQL dumps on Tiktalik Files.
 
 Requirements
 ------------
@@ -17,7 +17,7 @@ Configuration
 
 The script requires the following configuration parameters
 
-**AWS**
+**Tiktalik Files**
 
 * Access Key - _aws_access_key_
 * Secret Key - _aws_secret_key_
